@@ -1,7 +1,11 @@
+
 # Currículo
+
 
 Este projeto consiste em um currículo online desenvolvido utilizando Bootstrap, HTML, CSS e JavaScript. Tive como objetivo criar uma página responsiva e estilizada para apresentar informações sobre minhas habilidades, experiências e educação de forma clara e atraente.
 
+## Deploy
+https://lucaseduardocruz.github.io/Curriculo/
 ## Funcionalidades
 
 - Design responsivo que se adapta a diferentes tamanhos de tela e dispositivos.
